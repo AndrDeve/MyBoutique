@@ -112,6 +112,17 @@
     }
 }
 
+@media screen and (max-width:400px){
+    .img__item img{
+        height: 400px;
+        width: 300px;
+    }
+
+    .container__item__hover{
+        height: 400px;
+    }
+}
+
 @media screen and (max-width:360px){
     .mapa iframe{
         width: 80%;
@@ -139,6 +150,9 @@
     .img__item img{
         height: 350px;
         width: 250px;
+    }
+    .container__item__hover{
+        height: 350px;
     }
 
     /********** opiniones de nuestros clientes **********/
