@@ -16,7 +16,7 @@ window.sr = ScrollReveal();
 window.sr = ScrollReveal();
 
     sr.reveal('.scroll2' , {
-        duration: 3000,
+        duration: 2000,
         origin: 'bottom',
         distance: '10px'
     });  
@@ -24,7 +24,7 @@ window.sr = ScrollReveal();
 window.sr = ScrollReveal();
 
     sr.reveal('.scroll3' , {
-        duration: 4000,
+        duration: 2000,
         origin: 'bottom',
         distance: '10px'
     }); 
